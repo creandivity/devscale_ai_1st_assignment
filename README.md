@@ -18,9 +18,10 @@ Inputan user :
 I am with my children. Chopper and Nami. Chopper love sausage and can eat spicy food. Nami cannot eat spicy, but really love chocolate drink. we have 1 hour to eat. I bring $50 with me.
 
 Final Output:
-========================================
+```
+-----------------------------------------
   JORE COFFEE - Food Order Recommendation
-========================================
+-----------------------------------------
 
 Customers:
   - Elon (likes: sausage, spicy food, avoids: )
@@ -38,13 +39,15 @@ Order:
   Time needed    : 8 min
   Budget         : $50
   Total cost     : $26
-========================================
+-----------------------------------------
+```
 
 Case 2
 Inputan User:
 I and John need to grab a coffee for each of us as we walk into our office. we also need light snack to eat during our walk. We only bring $15 each. FYI, i am a little bit sleepier than John today, but John is hungrier than me.
 
 Final Output
+```
 ========================================
   JORE COFFEE - Recommended order
 ========================================
@@ -65,3 +68,4 @@ Order:
   Budget         : $30
   Total cost     : $21
 ========================================
+```
